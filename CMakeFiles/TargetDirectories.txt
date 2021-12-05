@@ -1,3 +1,0 @@
-/home/askee/kraya/ExerciceOumayma/CMakeFiles/rebuild_cache.dir
-/home/askee/kraya/ExerciceOumayma/CMakeFiles/edit_cache.dir
-/home/askee/kraya/ExerciceOumayma/CMakeFiles/etudiant.dir
